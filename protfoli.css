@@ -127,7 +127,11 @@
         
         /* Hero Styles */
         #hero {
+<<<<<<< HEAD
             padding-top: 10px;
+=======
+            padding-top: 8rem;
+>>>>>>> bade82b (first)
             min-height: 90vh;
             display: flex;
             align-items: center;
